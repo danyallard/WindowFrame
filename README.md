@@ -1,2 +1,2 @@
 # WindowFrame
- Window Frame with Custom Title Bar
+ Window Frame with custom title bar
